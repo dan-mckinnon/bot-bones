@@ -1,0 +1,23 @@
+{
+  "name": "bot-bones",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/bot-bones.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node src/run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-mckinnon/bot-bones.git"
+  },
+  "keywords": [],
+  "author": "Dan McKinnon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-mckinnon/bot-bones/issues"
+  },
+  "homepage": "https://github.com/dan-mckinnon/bot-bones#readme"
+}
